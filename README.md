@@ -1,8 +1,6 @@
 # Dashboard 
 # link of the (live Demo)
-[https://dashboard-red-one.vercel.app/settings.html](https://dashboard-git-main-mahmoudfawzy10s-projects.vercel.app/)
-######
-
+(https://dashboard-git-main-mahmoudfawzy10s-projects.vercel.app/)
 # 👋 Hey there, I'm **Mahmoud Fawzy**
 
 ## 🚀 *Aspiring Full-Stack Developer* | 🎯 *Continuous Learner*
@@ -12,6 +10,15 @@
 ### 📋 **About This Repository:**
 
 This project showcases my development journey. I created a custom framework located in the `css` folder to make styling easy and efficient. As I progress, I look forward to integrating real front-end frameworks to enhance both functionality and design.
+
+The project consists of multiple pages to demonstrate different features and layouts, including:
+- ⚙️ **Settings**
+- 👤 **Profile**
+- 📂 **Projects**
+- 🎓 **Courses**
+- 🤝 **Friends**
+- 📁 **Files**
+- 📊 **Plans**
 
 ---
 
@@ -75,7 +82,6 @@ A huge thank you to **Osama Elzero** for his amazing tutorials and guidance in m
 ---
 
 ### 💡 *"Code, Learn, Repeat! The journey never ends."* 🚀
-
 
 
 
